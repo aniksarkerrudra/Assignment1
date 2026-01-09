@@ -17,7 +17,7 @@ header #navbar {
 }
 
 #navbar .logo-navbar img {
-    width: 60px;
+    width: 120px;
     height: auto;
 }
 
@@ -302,7 +302,7 @@ body {
 
 /* CTA SECTION */
 .cta-section {
-  background-color: #f6f4ef;
+  background-color: #ffffff;
   text-align: center;
   padding: 80px 0;
 }
@@ -327,6 +327,16 @@ body {
   padding: 14px 28px;
   font-size: 16px;
   border-radius: 6px;
+}
+
+.cta-card {
+  width: 95%;
+  max-width: 1560px;
+  background-color: #F7F6F2;
+  padding: 40px 30px;
+  border-radius: 8px;
+  display: inline-block;
+  margin-top: 20px, 80px, 80px, 120px;
 }
 
 .cta-button:hover {
